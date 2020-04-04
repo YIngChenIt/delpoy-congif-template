@@ -1,5 +1,4 @@
 module.exports = {
-    projectName: '', // 项目名称
     dev: {
         name: 'dev',
         script: "npm run build", // 测试环境打包脚本
